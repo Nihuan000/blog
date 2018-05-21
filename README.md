@@ -1,2 +1,2 @@
 # blog
-Blog based on CI development
+Blogs and backgrounds based on CI development

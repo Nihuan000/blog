@@ -1,0 +1,24 @@
+.main-container{
+    width: 100%;
+    min-height: 558px;
+    background: url("../images/bg.jpg") no-repeat scroll center 0 rgba(0, 0, 0, 0);
+}
+.login-layout{
+    height: auto;
+    background: url("../images/body-bg.gif") repeat scroll 50% 0 rgba(0, 0, 0, 0);
+}
+.verify-code img{
+    height: 32px;
+    line-height: 32px;
+    max-height: 32px;
+    margin-bottom: 4px;
+}
+.error{
+    color: red;
+}
+.success{
+    color: green;
+}
+.info{
+    color: #045e9f;
+}
